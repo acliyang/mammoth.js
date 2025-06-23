@@ -1,8 +1,8 @@
 {
-  "name": "mammoth",
-  "version": "1.9.1",
-  "author": "Michael Williamson <mike@zwobble.org>",
-  "description": "Convert Word documents from docx to simple HTML and Markdown",
+  "name": "ly-mammoth",
+  "version": "1.0.0",
+  "author": "Yang Li <liyang588@gmail.com>",
+  "description": "LY Modified version, Convert Word documents from docx to simple HTML and Markdown",
   "keywords": [
     "docx",
     "html",
@@ -15,7 +15,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mwilliamson/mammoth.js.git"
+    "url": "https://github.com/acliyang/mammoth.js.git"
   },
   "dependencies": {
     "@xmldom/xmldom": "^0.8.6",
